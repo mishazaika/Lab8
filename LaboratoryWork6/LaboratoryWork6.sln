@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratoryWork6(1)", "LaboratoryWork6\LaboratoryWork6(1).csproj", "{0D5E9A89-681C-4920-81C6-6044E81699FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaboratoryWork6(1)", "LaboratoryWork6\LaboratoryWork6(1).csproj", "{0D5E9A89-681C-4920-81C6-6044E81699FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratoryWork6(3)", "LaboratoryWork6(3)\LaboratoryWork6(3).csproj", "{2F107221-86B8-4508-B4B2-63B73E31F5E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaboratoryWork6(3)", "LaboratoryWork6(3)\LaboratoryWork6(3).csproj", "{2F107221-86B8-4508-B4B2-63B73E31F5E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratoryWork6(4)", "LaboratoryWork6(4)\LaboratoryWork6(4).csproj", "{8E7A701F-1040-489C-A1CC-41480F671ACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaboratoryWork6(4)", "LaboratoryWork6(4)\LaboratoryWork6(4).csproj", "{8E7A701F-1040-489C-A1CC-41480F671ACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratoryWork6(5)", "LaboratoryWork6(5)\LaboratoryWork6(5).csproj", "{D1DC853D-7CA0-41D9-9AB1-1894B4FB2A76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaboratoryWork6(5)", "LaboratoryWork6(5)\LaboratoryWork6(5).csproj", "{D1DC853D-7CA0-41D9-9AB1-1894B4FB2A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratoryWork6(2)", "LaboratoryWork6(2)\LaboratoryWork6(2).csproj", "{E98A3115-FA87-416D-8D21-EDB740801D5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D1DC853D-7CA0-41D9-9AB1-1894B4FB2A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1DC853D-7CA0-41D9-9AB1-1894B4FB2A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1DC853D-7CA0-41D9-9AB1-1894B4FB2A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98A3115-FA87-416D-8D21-EDB740801D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98A3115-FA87-416D-8D21-EDB740801D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98A3115-FA87-416D-8D21-EDB740801D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98A3115-FA87-416D-8D21-EDB740801D5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

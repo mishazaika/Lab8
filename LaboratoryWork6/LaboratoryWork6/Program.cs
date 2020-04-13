@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace LaboratoryWork6_1_
+namespace LaboratoryWork6
 {
     class Person
     {
